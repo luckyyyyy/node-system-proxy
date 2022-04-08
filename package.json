@@ -5,17 +5,16 @@
   "author": "William Chan",
   "main": "main.js",
   "types": "main.d.ts",
+  "repository": "luckyyyyy/node-system-proxy",
   "license": "MIT",
   "engines": {
     "node": ">=14"
   },
-  "files": [
-    "binding.gyp",
-    "index.d.ts",
-    "src/**/*",
-    "lib/**/*",
-    "tsconfig.json"
-  ],
+  "keywords": [
+    "proxy",
+    "system-proxy",
+    "global-proxy"
+	],
   "scripts": {
     "build": "node-gyp rebuild",
     "dev": "node test.js",
