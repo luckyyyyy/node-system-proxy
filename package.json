@@ -1,6 +1,6 @@
 {
   "name": "node-system-proxy",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Set up Windows and macOS proxies via OS API",
   "author": "William Chan",
   "main": "main.js",
